@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAsyncComparison", "SyncAsyncComparison.csproj", "{5CE69DBB-AEF0-41E8-BC14-7B203D967ADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyncAsyncComparison", "SyncAsyncComparison.csproj", "{5CE69DBB-AEF0-41E8-BC14-7B203D967ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSyncComparisonTESTS", "..\AsyncSyncComparisonTESTS\AsyncSyncComparisonTESTS.csproj", "{81A2A600-BE3B-4DF6-A6CF-AD64FB1B1406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5CE69DBB-AEF0-41E8-BC14-7B203D967ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE69DBB-AEF0-41E8-BC14-7B203D967ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE69DBB-AEF0-41E8-BC14-7B203D967ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A2A600-BE3B-4DF6-A6CF-AD64FB1B1406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A2A600-BE3B-4DF6-A6CF-AD64FB1B1406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A2A600-BE3B-4DF6-A6CF-AD64FB1B1406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A2A600-BE3B-4DF6-A6CF-AD64FB1B1406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
